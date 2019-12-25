@@ -1,0 +1,48 @@
+#name: "lili"
+#Name: "lili"
+
+#value1: {"name","张三"}
+#value2: 张三
+#value3:    # 多层级关系
+#  name1: "张三"
+#  name2: "曹操"
+
+#value4:
+#  - 1
+#  - 2
+
+#value5: [1,2,3,4]
+#
+#value6:
+#  - name: "张三"
+#  - name: "曹操"
+#
+#  进游戏时提示 无法启动0xc0000142 这么解决
+
+#value7: true
+#value8: false
+#
+#value9: True
+#value10: False
+#
+#valuex: no
+#valuey: yes
+#
+#value11: 136
+#value12: 19.02104687
+
+#value13: ~
+#value16:
+#value17: null
+#value18: Null
+#
+#value14: None
+#value15: none
+#value19: ""
+#
+#value20: 2020-11-11 11:11:11
+#value21: 2020-11-11
+#value22: 01:01:01
+
+value23: 2020-11-11 03:03:03
+value24: 2020-01-01
